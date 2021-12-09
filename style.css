@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=MonteCarlo&display=swap');
+
+:root{
+    --primary-dark: #1F2937;
+    --primary-green: #020202; 
+
+}
+
+body{
+    background-image:url(birthday.jpg);
+    width:100%;
+    
+
+    color: var(--primary-green);
+    font-family:"ubuntu Mono",monospace; 
+    background-size: 100%;
+}
+h1{
+    text-align: center;
+    margin:2rem;
+
+}
+.container{
+    width:200px;
+    margin:auto;
+}
+input,label{
+    display: block;
+    margin: auto;
+}
+label{
+    text-align: center;    
+}
+input{
+     margin-bottom:0.6rem ;
+     width:100;
+}
+#check-number{
+    display: block;
+    margin: top 1rem;
+    margin:auto;
+    background:transparent;
+    color: var(--primary-green);
+    border-color: var(--primary-green);
+    border-width: medium;
+    padding: 0.6rem;
+    border-radius: 0.4rem;
+}
+h1{
+    text-align: center;
+    margin: 2rem;
+}
