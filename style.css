@@ -9,8 +9,6 @@
 body{
     background-image:url(birthday.jpg);
     width:100%;
-    
-
     color: var(--primary-green);
     font-family:"ubuntu Mono",monospace; 
     background-size: 100%;
